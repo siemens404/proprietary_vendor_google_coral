@@ -91,6 +91,7 @@ PRODUCT_PACKAGES += \
     HardwareInfo \
     HotwordEnrollmentOKGoogleHEMIDELTA \
     HotwordEnrollmentXGoogleHEMIDELTA \
+    MotionSenseBridgePrebuilt
     OemDmTrigger \
     SprintDM \
     TetheringEntitlement \
@@ -105,6 +106,7 @@ PRODUCT_PACKAGES += \
     EuiccSupportPixelPermissions \
     MyVerizonServices \
     OBDM_Permissions \
+    OsloFeedback \
     RilConfigService \
     grilservice \
     ims \
